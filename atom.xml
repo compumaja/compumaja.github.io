@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title type="text">CompuMaJa</title>
+    <subtitle type="html">MemE is a powerful and highly customizable GoHugo theme for personal blogs.</subtitle>
+    <updated>2021-03-08T23:54:06&#43;01:00</updated>
+    <id>https://compumaja.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://compumaja.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://compumaja.github.io/atom.xml" />
+    <author>
+            <name>Ma &amp; Ja</name>
+            <uri>https://compumaja.github.io/</uri>
+            
+                <email>jakobs@js-on.de</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights>
+    <generator uri="https://gohugo.io/" version="0.80.0">Hugo</generator>
+        <entry>
+            <title type="text">Hello World</title>
+            <link rel="alternate" type="text/html" href="https://compumaja.github.io/posts/hello-world/" />
+            <id>https://compumaja.github.io/posts/hello-world/</id>
+            <updated>2021-03-08T23:51:08&#43;01:00</updated>
+            <published>2021-03-08T23:50:33&#43;01:00</published>
+            <author>
+                    <name>Ma &amp; Ja</name>
+                    <uri>https://compumaja.github.io/</uri>
+                    <email>jakobs@js-on.de</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</rights><summary type="html">Hello, World! </summary>
+            
+                <content type="html">&lt;h1 id=&#34;hello-world&#34;&gt;Hello, World!&lt;/h1&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                
+                    
+                
+            
+        </entry>
+    
+</feed>

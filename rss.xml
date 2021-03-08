@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>CompuMaJa</title>
+        <link>https://compumaja.github.io/</link>
+        <description>MemE is a powerful and highly customizable GoHugo theme for personal blogs.</description>
+        <generator>Hugo 0.80.0 https://gohugo.io/</generator>
+        
+            <language>en</language>
+        
+        
+            <managingEditor>jakobs@js-on.de (Ma &amp; Ja)</managingEditor>
+        
+        
+            <webMaster>jakobs@js-on.de (Ma &amp; Ja)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+        
+        <lastBuildDate>Mon, 08 Mar 2021 23:54:06 &#43;0100</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://compumaja.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>Hello World</title>
+                <link>https://compumaja.github.io/posts/hello-world/</link>
+                <guid isPermaLink="true">https://compumaja.github.io/posts/hello-world/</guid>
+                <pubDate>Mon, 08 Mar 2021 23:50:33 &#43;0100</pubDate>
+                
+                    <author>jakobs@js-on.de (Ma &amp; Ja)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en)</copyright>
+                
+                    <description>&lt;h1 id=&#34;hello-world&#34;&gt;Hello, World!&lt;/h1&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
